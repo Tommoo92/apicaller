@@ -1,0 +1,13 @@
+@import "mixins";
+
+.home{
+    .api-img{
+        width: 100%;
+        height: 100%;
+    }
+    .apiBanner{
+        #bannerImage{
+            width:100%;
+        }
+    }
+}
